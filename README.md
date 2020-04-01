@@ -1,3 +1,7 @@
+# University-Project
+Projekt realizowany w grupach 
+Moją częścią była realizacja Front-End.
+
 # react-minimal
 React Minimal template
 
